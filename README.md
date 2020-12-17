@@ -1,4 +1,7 @@
 # Meetings
+
+[![hackmd-github-sync-badge](https://hackmd.io/oqRYZpKzTzqh9XYUMP5FYg/badge)](https://hackmd.io/oqRYZpKzTzqh9XYUMP5FYg)
+
 Notes on (some **\***) University of Washington Libraries Python Interest Group (UWL-PIG) meetings
 
 **\*** *Particularly those including presentations and discussion about Python coding projects in and around the Libraries*
