@@ -2,7 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/oqRYZpKzTzqh9XYUMP5FYg/badge)](https://hackmd.io/oqRYZpKzTzqh9XYUMP5FYg)
 
-Notes from University of Washington Libraries Python Interest Group (UWL-PIG) meetings **\***
+Notes from University of Washington Libraries Python Interest Group (UWL-PIG) meetings
 
 **\*** *Some, but not all; focusing on presentations and discussion about Python coding projects in and around the UW Libraries*
 
@@ -23,7 +23,7 @@ In order to support our learning community and make the most of our shared space
 
 ***Adapted from the [Digital Scholarship Collective Community Agreement](https://docs.google.com/document/d/1g8Ln1kCLVk_GPF-zC516nNjZIIByc-EvvFd69lFM0GU/edit#heading=h.ise0o8dv9bll)***
 
-## Get in touch with the PIG
+## Get in Touch with the PIG
 
 1. [listserv](https://mailman.u.washington.edu/mailman/listinfo/uwlib_pig)
 2. [Slack workspace](https://uwlibrariespig.slack.com/)
