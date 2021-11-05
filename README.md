@@ -1,7 +1,5 @@
 # Meetings and How to Get in Touch
 
-[![hackmd-github-sync-badge](https://hackmd.io/oqRYZpKzTzqh9XYUMP5FYg/badge)](https://hackmd.io/oqRYZpKzTzqh9XYUMP5FYg)
-
 Notes from University of Washington Libraries Python Interest Group \(UWL-PIG\) meetings
 
 ## Community Agreement
