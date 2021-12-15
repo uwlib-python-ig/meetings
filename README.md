@@ -4,7 +4,7 @@ Notes from University of Washington Libraries Python Interest Group \(UWL-PIG\) 
 
 ## Community Agreement
 
-The UWL-PIG provides opportunities to learn about the Python programming language by inviting individuals and groups to present on their work.
+The UW Libraries Python Interest Group (UWL-PIG) provides opportunities to learn about the Python programming language by inviting individuals and groups to present on their work, sharing Python-programming learning resources, and providing space for discussing Python programming, with a focus on using Python in library workflows.  
 
 To support our learning community, we have adopted a community agreement originally developed by the UW Libraries' Digital Scholarship Collective:
 
