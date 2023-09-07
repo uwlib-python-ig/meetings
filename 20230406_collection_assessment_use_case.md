@@ -32,4 +32,4 @@
 - Are you finding that GreenGlass eliminates the need to use Python?
    - GreenGlass makes a list, but a person is still needed to make a decision
 - Suggestion for UWL-PIG How about another very basic session on how to use notebooks??
-   - See [notes from 2021-06-17](https://github.com/uwl-python-ig/meetings/blob/main/2021-06-17.md#an-introduction-to-using-jupyter-notebooks) for an introduction to Jupyter notebooks
+   - See notes from 2021-06-17 for an introduction to Jupyter notebooks

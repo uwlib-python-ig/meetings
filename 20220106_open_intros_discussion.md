@@ -17,7 +17,7 @@
     - Previous CS degrees & SW engineering, but 10+ year gap. 
     - Now PhD student in Oceanography using Python (first time) in data analysis
     - Interested in learning more about the packages. I'm really rusty and just looking at the APIs to figure things out.
-- Justin Wadland, Head, Digital Scholarship, UW Tacoma Library
+- Justin, Head, Digital Scholarship, UW Tacoma Library
     - Overseeing a repository (Digital Commons)
     - Have the experience of a grad student who really streamlined work processes by using Python (script still exists but doesn't work at this point)
     - Interested in getting started
@@ -26,7 +26,7 @@
     - Mostly use Python for scientific computing - signal processing, machine learning, inferential stats, data viz
     - VA health records project with billions of data points
 - Background on group from Ben
-    - Started by Hannah Levay in 2019
+    - Started by Hana L. in 2019
     - Started learning from a text and reviving it during the pandemic
     - Open group to investigate
     - Had some presentations on using work
@@ -34,7 +34,7 @@
 - Leah from Health Sciences
     - New to Libraries
     - We are thinking about services to provide at a new facility
-- Paul from the Office of the CISO
+- Paul
     - Only previous Python experience is from several months of a Udemy course three plus years ago
     - Looking to understand syntax for security and risk assessments, possibly some PenTesting too
     - It would be super useful for me to know how to use Python to check for vulnerabiities and general lack of security controls
