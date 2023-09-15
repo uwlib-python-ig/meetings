@@ -18,8 +18,6 @@
     - Make it easier to understand where the information in articles being used to create/train language models is coming from
     - Make it easier for users to go from Wikipedia citation to source
     - Do no harm (to citations)--leave them in *at least* better shape than we found them! This is why the project wil use a human review process--generate edits and then have humans review these. See for example workflows for transcription where auto-transcriptions are reviewed and cleaned up by humans
-- **Question: What's it like doing UI work in Python??
-- **So humans review a diff in the web UI?
 - Make sure several people agree with the new citation (wow! So, looking for volunteers?)
 
 ### More on the service
@@ -29,8 +27,7 @@
 
 ### Citations in Wikpedia
 - Citations we like: Wikipedia citations that use a template for citing formats such as books, journal articles, websites, etc.
-    - See Wikipedia:Citation templates > [examples](https://en.wikipedia.org/wiki/Wikipedia:Citation_templates#Examples)
-    - See [Template:Cite journal](https://en.wikipedia.org/wiki/Template:Cite_journal)
+    - See Wikipedia:Citation templates > [examples](https://en.wikipedia.org/wiki/Wikipedia:Citation_templates#Examples) such as [Template:Cite journal](https://en.wikipedia.org/wiki/Template:Cite_journal)
 
 ```
 <ref name="bn23hle0">
