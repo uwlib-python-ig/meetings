@@ -29,11 +29,12 @@ _**Adapted from the**_ [_**Digital Scholarship Collective Community Agreement**_
 2. Slack workspace: Join [here](https://join.slack.com/t/uwlibrariespig/shared_invite/zt-9fiyia7a-Oe4kVQHsPCgNgLnnRmU2XQ)
 3. Email UWL-PIG facilitator Benjamin Riesenberg [here](mailto:ries07@uw.edu)
 
-## Meeting notes file-naming convention
+## Meeting notes file-naming conventions
 ```
-'YYYYMMDD_' + [brief_descriptive_phrase], as in...
-
+'YYYYMMDD_' + [brief_descriptive_phrase]
+```
+For example:  
+```
 20201215_nlp_ml.md
 20210211_basic_git_github.md
-...
 ```

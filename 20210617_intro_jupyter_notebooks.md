@@ -7,7 +7,7 @@ Probably the easiest way to get Jupyter Notebooks up-and-running on most any mac
 Once installed, it will allow you to open and run Jupyter Notebooks using your computers graphical interface.
 
 ### Workshop notes
-**Jupyter file: [uwlib_pig_intro_to_jupyter_20210617.ipynb](https://github.com/uwl-python-ig/pig_notebooks_001/blob/main/uwlib_pig_intro_to_jupyter_20210617.ipynb)
+**Jupyter file: [20210617_intro_jupyter_notebooks.ipynb](https://github.com/uwlib-python-ig/shared-01/20210617_intro_jupyter_notebooks.ipynb)
 - Six participants plus Emilia and Ben
 - Some beginners, one participant with experience programming in another language
 

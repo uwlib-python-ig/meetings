@@ -3,7 +3,7 @@
 ### Python{4}Lib, a Code4Lib Python Interest group
    - The group has assembled Python resources! See code4lib/[python4lib-resources](https://github.com/code4lib/python4lib-resources)
    - The mini_python_intro which was presented on 04-04 may be of interest
-      - the notebook file is [available via Google Colab](https://colab.research.google.com/drive/1m3cz4KeozooHFzjswyjgJmbfXZTfG0mP?usp=sharing) or [in the Python IG notebooks repo](https://github.com/uwl-python-ig/pig_notebooks_001/blob/main/mini_python_intro.ipynb) (ask [Benjamin](mailto:ries07@uw.edu) if you'd like help running notebook files)
+      - the notebook file is [available via Google Colab](https://colab.research.google.com/drive/1m3cz4KeozooHFzjswyjgJmbfXZTfG0mP?usp=sharing) or [in uwlib-python-ig/shared-01](https://github.com/uwlib-python-ig/shared-01/mini_python_intro.ipynb) (ask [Benjamin](mailto:ries07@uw.edu) if you'd like help running notebook files)
 
 ## Show-and-tell: Python for collection assessment
 ***Welcome Hana Levay! Note that links require a UW NetID for access. All materials related to Hana's presentation are available [here](https://drive.google.com/drive/folders/1xeA69GdZNzj926kyK5GXWeHwC-yussHe?usp=share_link).***
