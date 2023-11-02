@@ -1,4 +1,4 @@
-# 2023-04-06 UWL PIG
+# 2023-04-06 University of Washington Libraries Python Interest Group meeting
 ## Announcements
 ### Python{4}Lib, a Code4Lib Python Interest group
    - The group has assembled Python resources! See code4lib/[python4lib-resources](https://github.com/code4lib/python4lib-resources)
