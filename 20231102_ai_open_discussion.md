@@ -1,0 +1,29 @@
+# 2023-04-06 University of Washington Libraries Python Interest Group meeting
+## Open discussion
+- *Jonathan working on using [localGPT](https://github.com/PromtEngineer/localGPT) to process 20 years worth of memos at the law library!*
+    - 'Local' as in, the data (memo documents) can be indexed and processed without sending to Open AI servers and can even work without the computer being connected to the internet.
+    - What are these memos? Two tiers of reference questions at law library:
+        - One tier are easy questions which don't require much writing - we are not indexing these - instead we maintain FAQs and a knowledge base.
+        - Another tier are questions which require more writing, for these, response memos have been stored - these have content that is hard to find elsewhere - the goal is to help newer staff not reinvent the wheel.
+    - Thus, one of the goals for this project is to 'unearth' this content - a way to fight the loss of institutional memory
+        - Note, however, that since memos go back 20 years, some information may be out-of-date! How to deal with that and avoid localGPT producing out-of-date answers?
+    - LocalGPT is a tool available on github (in python) where you place local documents in a folder and then run an ingestion script. This script reads different document types, breaks the text into chunks, then converts those chunks into parts of a larger vector database (using [langchain](https://www.langchain.com/) and [chromadb](https://www.trychroma.com/))
+        - Not all document types can be converted, especially those from 2000-2003. 
+        - Since the data is processed on a single computer, it is slower and far less good than ChatGPT. I have not been able to get quality results when I ask it to write a biography of a faculty member, for example, based on the memos we have.
+        - The process uses the same or similar tools as ChatGPT, but because you are keeping the data local you have to do the indexing locally
+        - When the user asks a question, localgpt converts the question into a set of vectors and compares it to all the contents of the database created from the documents. LocalGPT then returns an answer based on those most similar sections.
+        - Using a static index of old memos, can you cite back to things that are being referenced? 
+            - Yes, the tool can reference its sources 
+    - Note that [GPT4All](https://gpt4all.io/index.html) has a local docs, function but it's currently broken
+    - So many people are looking at doing something like this for internal data... (that is, using a Chat-GPT like tool but without exposing 'private' data), see also [PrivateGPT](https://www.privategpt.io/)
+    - "It feels like playing with Legos--you install one thing that needs another thing, that requires another thing..." Even if you cannot script in python, if you are curious and stick with it, you can get the different existing packages to talk to each other. The greater challenge is to know how to improve the results. In my situation, I wonder if moving the content to the cloud with Azure or some other service that is FERPA and HIIPA compliant might yield better results because we could use more computing intensive models.
+    - Why GPT and not a more traidional info-retrival system?
+        - There are other ways to do this, and certainly you could use more conventional indexing and search tools. For us, a goal was to create new content that synthesizes multiple memos while still citing them, so staff can go back to the original documents.
+        - If we are heading towards providing digital information to the public, we may want a tool that can synthesize multiple documents, and provide answers without requiring people asking questions to read those multiple documents 
+- *Benjamin hoping to get to some [rdflib](https://rdflib.readthedocs.io/en/stable/) work this week*
+- *Crystal looking for Python use cases, nothing on right now*
+- *Cat has been doing coursework recently, project on the backburner at this time*
+- *Elliott has a goal to work through Malanie Walsh's text [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)*
+    - Visited a class last week where a CHID student spoke about working with MARC data using Python (!) - see blog post [Summarizing America: The Impact of Metadata on Historical Discovery](https://www.neh.gov/blog/summarizing-america-impact-metadata-historical-discovery)
+    - Thinking about data critically--where does data come from, how is it biased, who does it harm/benefit, ...
+    - Interesting work by faculty such as Anna Preuss and Emily Bender were discussed, see Emily Bender's book [Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://orbiscascade-washington.primo.exlibrisgroup.com/permalink/01ALLIANCE_UW/db578v/cdi_askewsholts_vlebooks_9783031021503), and an [upcoming town hall with Ted Chiang & Dr. Emily M. Bender](https://townhallseattle.org/event/ted-chiang-and-dr-emily-m-bender/)
