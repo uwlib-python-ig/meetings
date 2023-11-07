@@ -1,4 +1,4 @@
-# MEETING NOTES
+# 2021-06-17 University of Washington Libraries Python Interest Group meeting
 
 ## An introduction to using Jupyter Notebooks
 

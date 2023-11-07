@@ -1,4 +1,4 @@
-# MEETING NOTES
+# 2021-02-11 University of Washington Libraries Python Interest Group meeting
 
 ## Basic git and GitHub stuff
 

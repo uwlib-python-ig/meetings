@@ -1,4 +1,4 @@
-# MEETING NOTES
+# 2022-10-06 University of Washington Libraries Python Interest Group meeting
 # Attendees etc.
 - 7 attendees
 - Folks saw it through the eScience newletter, UW Insider

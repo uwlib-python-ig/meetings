@@ -1,4 +1,4 @@
-# Meeting minutes
+# 2023-02-02 University of Washington Libraries Python Interest Group meeting
 
 ## Attendees
 - [Benjamin Riesenberg](https://github.com/briesenberg07)
