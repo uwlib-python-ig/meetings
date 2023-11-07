@@ -1,4 +1,4 @@
-# 2023-04-06 University of Washington Libraries Python Interest Group meeting
+# 2023-11-02 University of Washington Libraries Python Interest Group meeting
 ## Open discussion
 - *Jonathan working on using [localGPT](https://github.com/PromtEngineer/localGPT) to process 20 years worth of memos at the law library!*
     - 'Local' as in, the data (memo documents) can be indexed and processed without sending to Open AI servers and can even work without the computer being connected to the internet.
