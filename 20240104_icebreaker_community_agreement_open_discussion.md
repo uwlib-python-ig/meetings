@@ -1,4 +1,4 @@
-# 2024-01-04 Universtity of Washington Libraries Python Interest Group meeting
+# 2024-01-04 University of Washington Libraries Python Interest Group meeting
 
 ## 🧊 Icebreaker
 *Thanks to Mariecris for this idea*  
