@@ -18,7 +18,7 @@ To support our learning community, we have adopted a community agreement origina
 - Remember that perfection is not the goal; embrace mistakes as part of the process
 - Look for ways in which our community of practice can align with anti-racism and social justice
 
-*Adapted from the[Digital Scholarship Collective Community Agreement](https://docs.google.com/document/d/1g8Ln1kCLVk_GPF-zC516nNjZIIByc-EvvFd69lFM0GU/edit?usp=sharing)*
+*Adapted from the [Digital Scholarship Collective Community Agreement](https://docs.google.com/document/d/1g8Ln1kCLVk_GPF-zC516nNjZIIByc-EvvFd69lFM0GU/edit?usp=sharing)*
 
 # Get in Touch with the PIG
 1. Mailing list: Join [here](https://mailman.u.washington.edu/mailman/listinfo/uwlib_pig)
