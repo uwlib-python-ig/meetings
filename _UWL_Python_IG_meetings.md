@@ -8,6 +8,9 @@
 ### Thursday, 7 March 2024
 - Meet with [Anna Preus](https://english.washington.edu/people/anna-preus), Assistant Professor, University of Washington Department of English
 
+### Thursday, 4 April 2024
+- TBD/open discussion
+
 ### Thursday, 2 May 2024
 - Python + Flask API implementation with Thomas Johnson, UW-IT
 
