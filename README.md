@@ -1,6 +1,6 @@
 # uwl-python-ig/meetings
 **Meeting notes from University of Washington Libraries Python Interest Group \(UWL-PIG\) meetings**  
-*See also: [Information about upcoming and past interest group meetings](https://github.com/uwlib-python-ig/meetings/blob/main/_UWL_Python_IG_meetings.md)*  
+*See also: [Information about upcoming and past interest group meetings](https://github.com/uwlib-python-ig/meetings/blob/main/meetings.md)*  
 
 ## Community Agreement
 The UW Libraries Python Interest Group (UWL-PIG) is a community of practice that provides opportunities to learn about the Python programming language by inviting individuals and groups to present on their work, sharing Python-programming learning resources, and providing space for discussing Python programming, with a focus on using Python in library workflows and teaching and learning Python.
