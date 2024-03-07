@@ -11,7 +11,7 @@
 - They currently work as a site reliability engineer, and are planning to start applying for PhD programs next year
 
 ### Presentation notes
-***See [slides](https://github.com/uwl-python-ig/meetings/blob/main/presentation_materials/2023-09-07_Wiki_Citation_Improvement.pdf)***
+***See [slides](https://github.com/uwl-python-ig/meetings/blob/main/presentation_materials/20230907_Wiki_Citation_Improvement.pdf)***
 
 #### Background
 - A lot of Natural Language Processing (NLP) ends up ingesting Wikipedia, but citation information is often either stripped out or under-represented when this ingestion takes place
