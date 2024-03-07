@@ -6,7 +6,7 @@
 
 ## Guest speaker Anna Preus
 SEE  
-- *coming soon* &#x1F6A7; &#x1F6A7; &#x1F6A7; Recording of presentation and question/answer session
+- [Recording](https://washington.zoom.us/rec/share/Tyi39CWW6yY8WaJrwRrpJbdQTRaEqHYe5lYj5zNNyTStONe80jdnEqxYeyRhokeY.m2V5Ugy3Ti0TxFsT): Presentation and discussion with transcript (*available until July 7, 2024*)
 - [Presentation slides](https://github.com/uwl-python-ig/meetings/blob/main/presentation_materials/20240307_publishing-empire_uwl-python.pdf)
 - As of date of presentation, project code is available at https://github.com/apreus/english-catalogue-of-books 
 
