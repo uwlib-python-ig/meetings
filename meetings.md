@@ -1,7 +1,7 @@
 # University of Washington Libraries Python Interest Group meetings
 
 ## UPCOMING 🔭
-*UWL Python Interest Group meetings are held from 11 AM - 12 PM via Zoom on the first Thursday of each month -- [get in touch with us](README#get-in-touch-with-the-pig) for login info and additional details!*
+*UWL Python Interest Group meetings are held from 11 AM - 12 PM via Zoom on the first Thursday of each month -- [get in touch with us](README.md#get-in-touch-with-the-pig) for login info and additional details!*
 
 ### Thursday, 4 April 2024
 - Text manipulation 🔠🔡 with Python, featuring John Borwick, Director of Information Technology Services & Digital Strategies
