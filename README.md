@@ -1,6 +1,6 @@
 # uwl-python-ig/meetings
 **Meeting notes from University of Washington Libraries Python Interest Group \(UWL-PIG\) meetings**  
-*See also: [Information about upcoming and past interest group meetings](https://github.com/uwlib-python-ig/meetings/blob/main/meetings.md)*  
+*See also: [Information about upcoming and past interest group meetings](https://github.com/uwlib-python-ig/meetings/blob/main/__meetings.md)*  
 
 ## Community Agreement
 The UW Libraries Python Interest Group (UWL-PIG) is a community of practice that provides opportunities to learn about the Python programming language by inviting individuals and groups to present on their work, sharing Python-programming learning resources, and providing space for discussing Python programming, with a focus on using Python in library workflows and teaching and learning Python.
@@ -28,7 +28,7 @@ To support our learning community, we have adopted a community agreement origina
 2. Slack workspace: Join [here](https://join.slack.com/t/uwlibrariespig/shared_invite/zt-9fiyia7a-Oe4kVQHsPCgNgLnnRmU2XQ)
 3. Email UWL-PIG facilitator Benjamin Riesenberg [here](mailto:ries07@uw.edu)
 
-# Meeting notes file-naming conventions
+# Meeting notes / presentation materials file-naming conventions
 ```
 'YYYYMMDD_' + [brief_descriptive_phrase]
 ```
