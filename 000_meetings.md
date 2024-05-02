@@ -3,13 +3,15 @@
 ## UPCOMING 🔭
 *UWL Python Interest Group meetings are held from 11 AM - 12 PM via Zoom on the first Thursday of each month -- [get in touch with us](https://github.com/uwlib-python-ig/meetings/blob/main/README.md#get-in-touch-with-the-pig) for login info and additional details!*
 
-
-
-### Thursday, 2 May 2024
-- Python + Flask API implementation with Thomas Johnson, UW-IT
+### Thursday, 6 June 2024
+- Discussion about future meetings
 - *Additional details coming soon*
 
 ## PAST 📜
+
+### Thursday, 2 May 2024
+- Announcement: Negeen Aghassibake (negeena@uw.edu) will be the new facilitator of the Python IG.
+- Discussion about teaching Python. 
 
 ### Thursday, 4 April 2024
 - Text manipulation 🔠🔡 with Python, featuring John Borwick, Director of Information Technology Services & Digital Strategies
