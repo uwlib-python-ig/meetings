@@ -24,9 +24,9 @@ To support our learning community, we have adopted a community agreement origina
 *Last updated 2024-01-04*  
 
 # Get in Touch with the PIG
-1. Mailing list: Join [here](https://mailman.u.washington.edu/mailman/listinfo/uwlib_pig)
-2. Slack workspace: Join [here](https://join.slack.com/t/uwlibrariespig/shared_invite/zt-9fiyia7a-Oe4kVQHsPCgNgLnnRmU2XQ)
-3. Email UWL-PIG facilitator Negeen Aghassibake [here](mailto:negeena@uw.edu)
+1. [Join the mailing list](https://mailman.u.washington.edu/mailman/listinfo/uwlib_pig)
+2. [Join the Slack workspace](https://join.slack.com/t/uwlibrariespig/shared_invite/zt-9fiyia7a-Oe4kVQHsPCgNgLnnRmU2XQ)
+3. [Email UWL-PIG facilitator Negeen Aghassibake](mailto:negeena@uw.edu)
 
 # Meeting notes / presentation materials file-naming conventions
 ```
