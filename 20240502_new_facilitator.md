@@ -4,8 +4,7 @@
 > - **Our [community agreement](https://github.com/uwlib-python-ig/meetings/tree/main#community-agreement) is adapted from that of the UW Libraries Digital Scholarship Collective**  
 > - *More UWL Python Interest Group information is available at https://github.com/uwlib-python-ig/meetings#get-in-touch-with-the-pig.* 
 
-## Announcement 📢 - call for Python IG facilitator
-> - ***See [mailing list announcement](https://mailman11.u.washington.edu/pipermail/uwlib_pig/2024/000024.html) for details***
+## Announcement - new facilitator
 > - Introductions if time and number of participants permits, else please say hello in chat!
 > - New Python IG facilitator: Negeen Aghassibake (negeena@uw.edu) 
 
