@@ -7,5 +7,5 @@
 ## Announcements
 > - Introductions if time and number of participants permits, else please say hello in chat!
 
-### Discussion
+## Discussion
 - Taking stock: what do you want to get from these meetings? How can Negeen help facilitate that? 
