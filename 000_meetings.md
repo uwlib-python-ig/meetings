@@ -4,7 +4,7 @@
 *UWL Python Interest Group meetings are held from 11 AM - 12 PM via Zoom on the first Thursday of each month -- [get in touch with us](https://github.com/uwlib-python-ig/meetings/blob/main/README.md#get-in-touch-with-the-pig) for login info and additional details!*
 
 ### Thursday, 18 July 2024
-- Discuss new resource list
+- Discuss new [resource list](https://github.com/uwlib-python-ig/shared-01/blob/main/python-resources-062524.md)
 - Discuss Constellate Python Basics workshop
 
 ## PAST 📜
