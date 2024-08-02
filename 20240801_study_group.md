@@ -7,7 +7,7 @@
 > - Introductions if time and number of participants permits, else please say hello in chat!
 
 ## Discussion
-- Potential discussion: what do you want to get out of this group?
+- What do you want to get out of this group?
      - Practical presentations. What people are doing with Python.
      - Identify anyone on campus -- maybe with new BTAA, or other alliances, to identify anyone doing things with Python. Google Doc with people who seem cool and might be open to just visiting.
      - At the beginning of the group, moment where Hana and Benjamin were working through Learn Python the Hard Way. Or instead of a text, a beginner project. Find something and deconstruct it.
