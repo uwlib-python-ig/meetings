@@ -8,7 +8,7 @@
 
 ## PAST 📜
 
-### Thursday, 18 July 2024
+### Thursday, 1 August 2024
 - Discuss study group plan to learn Python together using Melanie Walsh's book, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
   
 ### Thursday, 18 July 2024
