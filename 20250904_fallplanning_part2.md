@@ -30,4 +30,5 @@
 - Idea: iSchool capstone, creating a wiki site. Media Wiki has web dev tools. Want to create it for labor history. Entries about local unions, individuals, organizations, etc. Would have to have a clear scope. Try to pull historical notes from finding aids. Pull data from wikipedia, other sources as well. Encyclopedia about it. API tools for Media Wiki. Something could do, need to figure out how to do it.
 -   Might be possible to [download a copy of wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download), then have it locally on computer.
 -   Disambiguation could be a challenge.
+-   You may have seen this too but check out [hosting options](https://www.mediawiki.org/wiki/Hosting_services) if you want to run a wiki
 - Class: have to research places on campus. Going to give tour to someplace on campus. PCAD has had to migrate a few times. Is that in a stable place? Will we have to migrate it again? 
